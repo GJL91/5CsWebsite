@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="true"
+	maxImageWidth="800"
+	maxImageHeight="560"
+	textColor="rgba(255,255,255,1)"
+	showThumbsButton="false"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	showExpandButton="true"
+	showOpenButton="false"
+	galleryWidth="800px"
+	galleryHeight="560px"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL=""
+	linkTarget=""
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.jpg"
+	thumbURL="thumbs/8.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10.jpg"
+	thumbURL="thumbs/10.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.jpg"
+	thumbURL="thumbs/11.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12.jpg"
+	thumbURL="thumbs/12.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13.jpg"
+	thumbURL="thumbs/13.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14.jpg"
+	thumbURL="thumbs/14.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15.jpg"
+	thumbURL="thumbs/15.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16.jpg"
+	thumbURL="thumbs/16.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17.jpg"
+	thumbURL="thumbs/17.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18.jpg"
+	thumbURL="thumbs/18.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\18.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19.jpg"
+	thumbURL="thumbs/19.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\19.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20.jpg"
+	thumbURL="thumbs/20.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\20.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21.jpg"
+	thumbURL="thumbs/21.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22.jpg"
+	thumbURL="thumbs/22.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\22.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23.jpg"
+	thumbURL="thumbs/23.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\23.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24.jpg"
+	thumbURL="thumbs/24.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\24.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25.jpg"
+	thumbURL="thumbs/25.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="C:\Users\Gaz\Desktop\New Website\2011\Cocktail Party\25.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
