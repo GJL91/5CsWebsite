@@ -1,8 +1,20 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" session="false" %>
     
 <!DOCTYPE html>
 <html>
-	<%@ include file="/head.html" %>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="initial-scale=1" />
+		<title>The Five C's</title>
+		<script src="/5Cs/jquery.js" type="text/javascript"></script>
+	    <script src="/5Cs/common.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="/5Cs/meyerreset.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/StyleMain.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/StyleHeader.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/StyleFooter.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/mobile.css" />
+	</head>
 	<body>
 		<%@ include file="/header.jsp" %>
 
@@ -19,7 +31,7 @@
 					<ul class="information">
 						<li class="box first">
 							<h2>Contact us online</h2>
-							<p>Submit an enquiry using our <a href="#">online form</a>.</p>
+							<p>Submit an enquiry using our <a href="form/">online form</a>.</p>
 <!-- 							<a href="#">Submit an enquiry</a> -->
 <!-- 							<p class="email">Alternatively, send us an email:</p> -->
 <!-- 							<a href="mailto:info@five-cs.org">info@five-cs.org</a> -->
@@ -33,12 +45,12 @@
 						
 						<li class="box last">
 							<h2>Write to us</h2>
-							<p class="address top">53 Heol Llanishen Fach</p>
-							<p class="address">Rhiwbina</p>
+							<p class="address top">61 Tatham Road</p>
+							<p class="address">Llanishen</p>
 							<p class="address">Cardiff</p>
 							<p class="address">Wales</p>
 							<p class="address">United Kingdom</p>
-							<p class="address">CF14 6LB</p>
+							<p class="address">CF14 5FD</p>
 						</li>
 					</ul>
 				</div>

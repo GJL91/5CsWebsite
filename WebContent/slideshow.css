@@ -9,7 +9,7 @@
     position:relative;
     width: 805px;
     height: 445px;
-    margin: 45px 45px 10px 45px;
+    margin: 45px auto 10px auto;
 }
 
 .video-links {
@@ -62,7 +62,7 @@
     position:absolute;
     display:none;
     z-index:2;
-/*     background:url(/5Cs/Images/up-down.png) no-repeat; */
+/*     background:url(/Images/up-down.png) no-repeat; */
 /*     background-size:20px 12px; */
 }
 
@@ -110,7 +110,7 @@
 /*     position: relative; */
     display:block;
     overflow:hidden;
-    width:600px;
+    width: 600px;
     height:445px;
 }
 

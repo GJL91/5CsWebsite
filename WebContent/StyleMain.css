@@ -26,6 +26,10 @@ body {
 	/*background-repeat:no-repeat;*/
 }
 
+body.modal-open {
+    overflow: hidden;
+}
+
 body:before {
 	content:"";
 	height:100%;
@@ -76,6 +80,10 @@ h5 {
     z-index: 3;
 }
 
+.modal.open {
+    display: block;
+}
+
 .modal .cover {
     height: 100%;
     width: 100%;
@@ -86,7 +94,7 @@ h5 {
     background: #fff;
     width: 600px;
     position: absolute;
-    top: 200px;
+    top: 100px;
     left: calc(50% - 300px);
     padding: 20px;
     border-radius: 5px;
@@ -136,6 +144,99 @@ td {
     font-weight:bold;
 }
 
+.btn-link {
+    background:none;
+     border:none; 
+     padding:0; 
+     cursor: pointer;
+}
+
+.fetch-btn {
+    color: #459FBA;
+    width: 100%;
+    padding: 14px 15px;
+    font-size: 20px;
+}
+
+.headline-story {
+    clear: both;
+    max-width: 730px;
+    max-height: 40px;
+    position: absolute;
+    padding-left: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.story {
+    clear: both;
+}
+
+.story:after {
+    clear: both;
+}
+
+.story:not(:first-child) {
+    margin-top: 10px;
+}
+
+.story-image {
+    position: relative;
+    float: right;
+    margin: 20px 40px 20px 20px;
+    width: 300px;
+}
+
+.story.last > .story-image {
+    margin-bottom: 0;
+}
+
+.story-image a span {
+    position:absolute; 
+    width:100%;
+    height:100%;
+    top:0;
+    left: 0;
+    z-index: 1;
+}
+
+.story-image img.story-picture {
+    width: 300px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.story-image > img.story-picture:not(:first-child) {
+    margin-top: 10px;
+}
+
+.story-image:hover p {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.story-image p {
+    color: #337ab7;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.article-image {
+    position: relative;
+    float: right;
+    margin: 30px 40px 15px 20px;
+    width: 300px;
+}
+
+.article-image > img.article-picture {
+    width: 300px;
+    margin: 0px;
+}
+
 .newsStory {
     width:893px;
     height:40px;
@@ -157,12 +258,15 @@ td {
     padding:0;
     background-color:transparent;
     margin:auto 0;
+    float: left;
 }
 
 .newsStory .ticker-buttons {
-    position:absolute;
-    right:5px;
-    top:calc(50% - 7.5px);
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    padding-top: 12px;
+    line-height: 20px;
 }
 
 .newsStory .play {
@@ -240,7 +344,7 @@ td {
 div.imgHolder {
 	/*padding:40px 8px 8px 8px;	*/
 	/*padding:0.2em;*/
-	border:5px solid #FFF;
+	border:5px solid ghostwhite;
 	margin:0 auto;
 /* 	width:545px; */
 	height:640px;
@@ -286,8 +390,10 @@ div.imgs {
 	float:left;
 	overflow:hidden;
 	top:0;
-	background-position:center;
-	background-repeat:no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: ghostwhite;
 }
 
 div.slideshow_home {
@@ -300,6 +406,7 @@ div.slideshow_home {
 	border:1px solid #000;
 	margin: 10px auto;
 	width:800px;
+	max-width: 800px;
 	margin-top:25px;
 }
 
@@ -338,7 +445,7 @@ div.slideshow_home {
 /* .slideshow-loading-img { */
 /* 	position:absolute; */
 /* 	display:block; */
-/* 	background:url(/5Cs/Images/gallery-images/skin-images/loading.gif) no-repeat center center; */
+/* 	background:url(/Images/gallery-images/skin-images/loading.gif) no-repeat center center; */
 /* 	top:0px; */
 /* 	left:0px; */
 /* 	width:100%; */
@@ -393,6 +500,7 @@ div.slideshow_home {
 
 .postComment form table {
 	font-size:16px;
+	width: 100%;
 }
 
 .postComment form table td.large {
@@ -402,9 +510,15 @@ div.slideshow_home {
 
 #postTable {
 	text-align:left;
+	width: 100%;
 }
 
-td.post_head {
+#postTable tr td {
+/*     width: 861px; */
+    width: calc(100% - 32px);
+}
+
+#postTable tr td.post_head {
 	width:162px;
 	padding-bottom:2px;
 }
@@ -424,11 +538,13 @@ td.post_large {
 }
 
 td.post_large input {
-	width:661px;
+/* 	width:661px; */
+/*     width: calc(100% - 172px); */
+    width: 100%;
 	height:21px;
 }
 
-td.post_info {
+#postTable tr td.post_info {
 	width:24px;
 	padding-bottom:2px;
 }
@@ -496,7 +612,8 @@ div.postComment form textarea {
 	background:#FFF;
 	font-size: 18px;
 	font-family: calibri;
-	width: 861px;
+	/* width: 861px; */
+	width: 100%;
 	resize:none;
 	margin:0;
 	outline:none;
@@ -560,6 +677,10 @@ div.feeds li {
 	-moz-border-radius:3px 3px 3px 3px;
 }
 
+.feeds .last.btn:hover {
+    border: 1px #53BDDD solid;
+}
+
 div.feeds li p {
 	margin:0;
 	padding:10px 0 14px 0;
@@ -573,6 +694,10 @@ div.feeds li.last {
 	padding: 14px 15px 14px 15px;
 }
 
+.feeds .last.btn {
+    padding: 0;
+}
+
 div.feeds li p.last {
 	padding:0;
 	text-align:center;
@@ -584,8 +709,13 @@ div.feeds li img, div.feeds li iframe {
 	margin:0 auto;
 }
 
+div.feeds li img {
+    max-width: 708px;
+    margin: 0 auto;
+}
+
 div.feeds li.odd {
-	background: #f7f7f7 url(Images/right_sprtline.gif) repeat-x left bottom;
+	background: #f7f7f7 url(/5Cs/Images/right_sprtline.gif) repeat-x left bottom;
 }
 
 div.feeds li a {
@@ -626,6 +756,100 @@ div.loading img, div.loading span {
     width:200px;
 }
 
+img.w-800 {
+    width: 800px;
+}
+
+.p-36 {
+    padding: 0px 36px;
+}
+
+.bigBox table {
+    width: calc(100% - 80px);
+    margin: 0 40px;
+    margin-top: 25px;
+}
+
+.bigBox table tr {
+    margin-top:5px;
+    width: 100%;
+    display: table-row;
+}
+
+.bigBox table th {
+    padding-top: 3px;
+    width: 120px;
+    font-weight: bold;
+}
+
+.bigBox table td {
+    max-width: 691px;
+    padding-bottom: 5px;
+    width: calc(100% - 120px);
+}
+
+.bigBox table td.button {
+    width: 60px;'
+}
+
+.bigBox table .nospace {
+    padding: 0px;
+}
+
+.bigBox table td input {
+    width: 100%;
+    height: 26px;
+    max-width: 717px;
+}
+
+.bigBox textarea {
+    width: 100%;
+    max-width: 717px;
+    height: 200px;
+    vertical-align:top;
+    resize: vertical;
+}
+
+.text-large {
+    font-size: 24px;
+}
+
+.newsletter {
+    position: relative;
+    margin: 25px 25px 0 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.newsletter > img {
+    max-height: 80px;
+    max-width: 80px;
+    display: block;
+    margin: 0 auto;
+}
+
+.newsletter > a > span {
+    position:absolute; 
+    width:100%;
+    height:100%;
+    top:0;
+    left: 0;
+    z-index: 1;
+}
+
+#captchaAnswer {
+    width: 100px;
+}
+
+.validation, .captchaValidation {
+    color: red;
+    text-align: left;
+}
+
+.captchaValidation {
+    padding-left: 10px;
+}
+
 .block-text {
     margin:25px 36px 0 36px;
     
@@ -664,6 +888,14 @@ li.last {
 	line-height:24px;
 }
 
+.success {
+    color: #179F17;
+}
+
+.bold {
+    font-weight: bold;
+}
+
 h2.inner {
 	margin:25px 36px 0 36px;
 	font-size:20px;
@@ -683,7 +915,7 @@ li.box p.email {
 }
 
 .people {
-	padding:16px 0 0 36px;
-	clear:both;
-	line-height:24px;
+	padding: 16px 36px 0 36px;
+	clear: both;
+	line-height: 24px;
 }

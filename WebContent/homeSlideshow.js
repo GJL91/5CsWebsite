@@ -10,6 +10,8 @@ var playing = 0;
 var stopped = true;
 var fOpaque;
 
+var aspectRatio = 798 / 640;
+
 window.onload = start;
 
 function start() {
@@ -20,6 +22,30 @@ function start() {
 		imgs[i].style.backgroundImage = "URL(/5Cs/Images/Slideshow_Home/image_" + (i + 1) + ".jpg)";
 		imgs[i].style.zIndex = 3 + (totalImgs - i);
 	}
+	
+	$(window).resize(function () {
+		var imgHolder = $('.imgHolder');
+		if (imgHolder.width() < 798) {
+			console.log('setting height to ' + imgHolder.width() * aspectRatio);
+			imgHolder.height(imgHolder.width() / aspectRatio);
+//			console.log('resizing');
+		} else {
+			imgHolder.height(640);
+		}
+	});
+	
+	$(window).resize();
+	
+	if ($('#modal').length > 0) {
+		$('#modal').show();
+		$('body').addClass('modal-open');
+	}
+	
+	$('#close-modal').click(function (e) {
+		e.preventDefault();
+		$('#modal').hide();
+		$('body').removeClass('modal-open');
+	});
 	
 	playing = window.setInterval(function () {next()}, 5000);
 }

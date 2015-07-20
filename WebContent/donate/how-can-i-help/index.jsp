@@ -1,25 +1,28 @@
-<%@page import="java.io.File"%>
-<?xml version="1.0" encoding="UTF-8" ?>
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" session="false" %>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="initial-scale=1" />
 		<title>The Five C's</title>
 		<script src="/5Cs/jquery.js" type="text/javascript"></script>
+        <script src="/5Cs/common.js" type="text/javascript"></script>
 		<link rel="stylesheet" type="text/css" href="/5Cs/meyerreset.css" />
 		<link rel="stylesheet" type="text/css" href="/5Cs/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="/5Cs/StyleMain.css" />
 		<link rel="stylesheet" type="text/css" href="/5Cs/StyleHeader.css" />
 		<link rel="stylesheet" type="text/css" href="/5Cs/StyleFooter.css" />
+		<link rel="stylesheet" type="text/css" href="/5Cs/mobile.css" />
 	</head>
 	<body>
 		<%@ include file="/header.jsp" %>
 
 		<div class="mainContent">
 			<div class="container">
-				<h1>How Can I Help?</h1>
+				<h1 class="center">How Can I Help?</h1>
 				<div class="bigBox first">
+					<img class="w-800 p-36" src="https://c1.staticflickr.com/9/8704/16977066426_8c9d82f053_c.jpg" alt="Group 2-4">
 					<p class="block-text">
 						We are always happy to hear from anyone with an enquiry or a fundraising idea! 
 					</p>
