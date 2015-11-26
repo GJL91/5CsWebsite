@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+
+ 	<servlet>
+  		<servlet-name>Submit</servlet-name>
+  		<servlet-class>org.fivecs.website.EmailSubmit</servlet-class>
+  	</servlet>
+  	<servlet-mapping>
+	  	<servlet-name>Submit</servlet-name>
+  		<url-pattern>/Submit</url-pattern>
+  	</servlet-mapping>
+  	
+  	<servlet>
+	    <servlet-name>Post_Comment</servlet-name>
+	    <servlet-class>org.fivecs.website.PostCommentServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	    <servlet-name>Post_Comment</servlet-name>
+	    <url-pattern>/PostComment</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+  		<servlet-name>FetchOldPosts</servlet-name>
+	  	<servlet-class>org.fivecs.website.FetchOldPosts</servlet-class>
+  	</servlet>
+  	<servlet-mapping>
+	  	<servlet-name>FetchOldPosts</servlet-name>
+	  	<url-pattern>/FetchOldPosts</url-pattern>
+  	</servlet-mapping>
+  	
+  	<servlet>
+  		<servlet-name>FetchNewPosts</servlet-name>
+	  	<servlet-class>org.fivecs.website.FetchNewPosts</servlet-class>
+  	</servlet>
+  	<servlet-mapping>
+	  	<servlet-name>FetchNewPosts</servlet-name>
+	  	<url-pattern>/FetchNewPosts</url-pattern>
+  	</servlet-mapping>
+ 		
+  	<servlet>
+  	    <servlet-name>Poll</servlet-name>
+  	    <servlet-class>org.fivecs.website.PollForNewPosts</servlet-class>
+  	</servlet>
+  	<servlet-mapping>
+  	    <servlet-name>Poll</servlet-name>
+  	    <url-pattern>/Poll</url-pattern>
+  	</servlet-mapping>
+  	
+  	<servlet>
+  	    <servlet-name>ReferPost</servlet-name>
+  	    <servlet-class>org.fivecs.website.ReferPost</servlet-class>
+  	</servlet>
+  	<servlet-mapping>
+  	    <servlet-name>ReferPost</servlet-name>
+  	    <url-pattern>/ReferPost</url-pattern>
+  	</servlet-mapping>
+  	
+	<welcome-file-list>
+	    <welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+</web-app>
