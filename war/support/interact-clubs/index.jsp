@@ -43,20 +43,19 @@
 				<div class="bigBox first">
 					<img src="/Images/Interact.gif" alt="Interact Logo" />
 					<p class="block-text">
-						The Five C’s involvement in the Summer Camp Project started with a group of Interactors
-						from the club at Whitchuch High School being taken over to Zabrodya in Belarus by the then
-						Chairperson, Kay Hailes, to help with the maintenance of the camp.
+						The Five C's involvement in the Summer Camp Project started with a group of Interactors 
+						from the club at Whitchuch High School being taken over to the camp in Zabrodia by the 
+						then Chairperson, Kay Hailes, to help with the maintenance.
 					</p>
 					<p class="block-text">
-						Since then the project has grown and with it so has the Five C’s involvement. Now we not
-						only supply volunteers from the one Interact Club but from 3 different Interact Clubs
-						associated with the Rotary Club of Cardiff Breakfast as well as other volunteers that get
-						in touch. On top of this we now, not only supply volunteers for the upkeep of the maintenance
-						on the camp, but also provide a large portion of the volunteers needed for the child care groups.
+						Since then the project has grown and now we not only supply volunteers from the one Interact 
+						Club but from 3 different Interact Clubs associated with the Rotary Club of Cardiff Breakfast 
+						as well as other volunteers that get in touch. In addition to this we now not only supply 
+						volunteers for the upkeep of the maintenance on the camp, but also provide a large percentage 
+						of the volunteers needed for the child care.
 					</p>
 					<p class="block-text">
-						A huge thank you goes to the Interact Clubs of Whitchurch High School, Howells School and Cathedral
-						School, all located in the wonderful city of Cardiff, for all your on-going support.
+						A huge thank you goes to the Interact Clubs of Cardiff, for all your on-going support.
 					</p>
 				</div>
 			</div>

@@ -109,7 +109,7 @@
 						</p>
 						<p class="block-text">
 							Due to this generous support and addition to our funds, we are able to begin building our volunteers
-							house in Zabrodya this Autumn, with the land cleared and foundtaions being built before December!
+							house in Zabrodia this Autumn, with the land cleared and foundations being built before December!
 						</p>
 					</div>
 					

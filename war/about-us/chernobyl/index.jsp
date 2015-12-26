@@ -53,17 +53,17 @@
 						an extensive geographical area. It is widely reported that one hundred times more fallout was released than
 						had been by the atomic bombing of Hiroshima. The prevailing wind was northerly, thus carrying the escaping
 						radioactivity across the border into Belarus affecting an estimated 23% of its territory, 3,678 towns and
-						2mn of its 10mn population. Belarus is widely thought of receiving around 70% of the fallout. Many areas were
-						then evacuated and there is still a Closed Zone near the border that is reported as uninhabitable.
+						2mn of its 10mn population. Belarus is widely thought to have received around 70% of the fallout. Many areas were
+						then evacuated and there is still a Closed Zone near the border that is uninhabitable.
 					</p>
 					<p class="block-text">
 						There are high cancer rates among children, especially those whose parents were exposed to the radiation.
-						Cancer of the thyroid and widespread immune deficiency syndrome, which makes them prone to other diseases,
+						Cancer of the thyroid and widespread immune deficiency syndrome, which makes people prone to other diseases,
 						are the most common.
 					</p>
 					<p class="block-text">
 						The full extent of the damage is difficult to assess. The effect of Chernobyl is expected to take thousands
-						of years to disappear, with only 8% of the children of Belarus reported as being currently free from any illness.
+						of years to disappear, with only 8% of the children of Belarus reported as being free from any illness.
 					</p>
 				</div>
 			</div>

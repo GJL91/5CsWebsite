@@ -43,30 +43,43 @@
 				<div class="bigBox first">
 					<h5>Chernobyl Children Cancer Care Cardiff Does Christmas</h5>
 					<p class="block-text">
-						Our next fundraiser will be a Christmas themed dinner and entertainment evening at the Village Hotel in Coryton on the 15th December between 7 - 12pm.
+						Our next fundraiser will be a Christmas themed dinner and entertainment evening at the Village Hotel in Coryton on the 15th December from 7pm until late.
 						You can expect live music, a raffle and  a whole lot of Christmas cheer!
 						We hope to see you there on the night.
 					</p>
 					<p class="block-text">
 						For more information, see our <a href="https://www.facebook.com/events/521252024710858/">facebook event</a> 
 						or for tickets please contact us on <a href="mailto:info@five-cs.org?subject=5Cs%20does%20Christmas">info@five-cs.org</a>
-						, alternatively you can buy tickets online via <a href="http://https//www.paypal.me/TheFiveCsdoesChrimbo" target="_blank">PayPal here</a>!
+						, alternatively you can buy tickets online via Paypal <a href="https://www.paypal.me/TheFiveCsdoesChrimbo" target="_blank">here</a>!
 					</p>
 					
 					<h5>Carol Singing</h5>
 					<p class="block-text">
-						Please join us on 19th December between 1 - 3pm at Tesco Extra, Western Avenue where we will be singing Christmas Carols
-						and collecting any kind donations to get into the spirit of the holidays!
+						Please join us to do your Christmas shopping on 19th December between 1 - 3pm at Tesco Extra, Western Avenue where we will be singing Christmas Carols and 
+						collecting donations to get into the spirit of the holidays!
+					</p>
+					
+					<h5>Running in 2016</h5>
+					<p class="block-text">
+						Any keen runners that would like to join our teams taking part in:
+					</p>
+					<ul class="block-text">
+						<li>The World Half Marathon in Cardiff, March 2016</li>
+						<li>Cardiff St Davids Day 5K/10K, March 2016</li>
+						<li>Cardiff Half Marathon, October 2016</li>
+					</ul>
+					<p class="block-text">
+						Please get in touch!
 					</p>
 					
 					<h5>The Five C's does 5 C's</h5>
 					<p class="block-text">
-						A group of volunteers are currently under way planning a 3 day sponsored bike ride, including passing through 5 places
+						A group of volunteers are currently planning a 3 day sponsored bike ride for 2016, passing through 5 places
 						starting with the letter C. If you are interested in joining us and raising funds for the charity then please get in touch
 						via email on <a href="mailto:info@five-cs.org?subject=Five%20Cs%20does%205%20Cs">info@five-cs.org</a> or use our <a href="/contact-us/form/">contact form</a>.
 					</p>
 					<p class="block-text">
-						Please watch here closely as details develop.
+						Please watch here closely as details develop, alternatively anyone that would like to join our team taking part in the Wales Velothon in May 2016, please get in touch!
 					</p>
 				</div>
 			</div>

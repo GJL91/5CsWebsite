@@ -43,11 +43,12 @@
 				<div class="bigBox first">
 					<img src="/Images/Rotary.jpg" alt="Rotary Logo" />
 					<p class="block-text">
-						Rotary is an international service organization whose stated purpose is to bring together
+						&#8216;Rotary is an international service organization whose stated purpose is to bring together
 						business and professional leaders in order to provide humanitarian services, encourage
 						high ethical standards in all vocations, and help build goodwill and peace in the world.
-						It is a secular organization open to all persons regardless of race, color, creed, religion,
-						gender, or political preference. There are 34,282 clubs and over 1.2 million members worldwide.
+						It is a secular organization open to all persons regardless of race, colour, creed, religion,
+						gender, or political preference. There are 34,282 clubs and over 1.2 million members worldwide.&#8217;
+						Information provided by Rotary International.
 					</p>
 					<p class="block-text">
 						We have been lucky enough to have been chosen by the Rotary Club of Cardiff Breakfast as

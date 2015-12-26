@@ -44,18 +44,18 @@
 					<img src="/Images/FriendsOfBCH.jpg" alt="Friends of the BCH Logo" />
 					<p class="block-text">
 						Friends of the Belarusian Children's Hospice UK (FoBCH) supports the Belarusian Children's
-						Hospice, the same as we do and as such we work very closely together to achieve the goals
-						of the Hospice.
+						Hospice as we do and as such we often work closely together.
 					</p>
 					<p class="block-text">
-						FoBCH also supports the wider hospice movement in Belarus and countries of Eastern Europe
+						&#8216;FoBCH also supports the wider hospice movement in Belarus and countries of Eastern Europe
 						and the former Soviet Union initiated and led by staff and parents of the Belarusian
 						Children's Hospice.
 					</p>
 					<p class="block-text">
 						Since 1998, they have helped to fund BCH staff salaries, medical and other equipment, 
 						buildings and the summer holiday programme. In addition, they make major contributions to 
-						BCH staff training, strategic development and management decision making.
+						BCH staff training, strategic development and management decision making.&#8217; 
+						Information provided by FoBCH.
 					</p>
 					<p class="block-text">
 						For more information on FoBCH please click <a href="http://www.friends-bch.org.uk/" target="_blank">here</a>.

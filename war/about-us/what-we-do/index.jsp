@@ -46,20 +46,20 @@
 					</div>
 					<p class="block-text">
 						Chernobyl Children Cancer Care Cardiff (The 5Cs) is a non political, non denominational, Cardiff
-						based charity that is officially twinned with the <a href="http://en.hospice.by/" target="_blank">Belarusian Children’s Hospice</a> in Minsk, Belarus.
+						based charity that is officially twinned with the <a href="http://en.hospice.by/" target="_blank">Belarusian Children's Hospice</a> in Minsk, the capital of Belarus.
 					</p>
 					<p class="block-text">
 						Our main purpose is in working with the Hospice and its Summer Camp is to provide support in caring
-						for children directly and indirectly affected by the Chernobyl disaster. The majority of our team are
+						for children and families under its care. The majority of our team are
 						under 25 and have first-hand experience of volunteering in Belarus.
 					</p>
 					<p class="block-text">
-						We provide hands on and financial help for the Summer Camp Programme in Zabrodya which is a small village
-						60KM west of Minsk as well as supporting many other Hospice projects. 
+						Our main project is to provide hands on and financial help for the Summer Camp Programme in Zabrodia which is a small village
+						60KM west of Minsk as well as supporting many other Hospice projects where we can. 
 					</p>
 					<p class="block-text">
 						The objects of the charity as registered with the charity commission are:<br />
-						&#8220;To assist in the treatment and care of children and young adults under the care of The Belarusian Childrens
+						&#8220;To assist in the treatment and care of children and young adults under the care of The Belarusian Children's
 						Hospice in Belarus by providing financial support and volunteers wherever possible to assist in providing
 						facilities, support services and equipment not normally provided by the statutory authorities.&#8221;
 					</p>

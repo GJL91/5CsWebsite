@@ -11,7 +11,7 @@
 		<title>The Five C's - About The Camp</title>
 		<meta name="description" content="Chernobyl Children Cancer Care Cardiff, The Five Cs. About the children's camp in Belarus">
 		<meta name="robots" content="index,follow">
-		<meta name="keywords" content="Five Cs,5Cs,Chernobyl,Children,Cancer,Care,Cardiff,Charity,About,Camp,Zabrodya,Minsk,Belarus">
+		<meta name="keywords" content="Five Cs,5Cs,Chernobyl,Children,Cancer,Care,Cardiff,Charity,About,Camp,Zabrodia,Minsk,Belarus">
 		<script src="/scripts/jquery.js" type="text/javascript"></script>
         <script src="/scripts/common.js" type="text/javascript"></script>
 		<link rel="stylesheet" type="text/css" href="/styles/meyerreset.css" />
@@ -45,19 +45,23 @@
 						<img class="article-picture" src="/Images/AboutCamp.jpg" alt="Camp picture" />
 					</div>
 					<p class="block-text">
-						The Belarusian Children's Hospice (BCH) provides short breaks for life-limited children at its main hospice centre in Minsk.  There
-						are three bedrooms where children can be looked after by a dedicated BCH nurse 24 hours a day.
-						The children look forward to their stay away from home and their parents or permanent carers are
-						given free time to devote to their other children, socialise or take a short holiday. 
+						&#8216;The Belarusian Children's Hospice (BCH) provides short breaks for life-limited children at its main hospice centre in Minsk. 
+						The children look forward to their stay away from home and their parents or permanent carers are given free time to devote 
+						to their other children, socialise or take a short holiday. 
 					</p>
 					<p class="block-text">
 						For longer respite care, BCH has its own specially adapted holiday complex in the countryside
-						about an hour’s drive outside Minsk. Here, hospice children and young people can holiday in
+						about an hour's drive outside Minsk. Here, hospice children and young people can holiday in
 						groups of up to 12 at a time.  They are cared for by BCH staff assisted by an army of volunteers
 						who arrive from all over Belarus and abroad each summer.  There is also purpose built accommodation
 						for up to three families at any one time so that mum, dad and brothers and sisters can have a
 						holiday together with their life-limited child.  Everyone benefits enormously from fresh air
-						and sunshine and many lasting friendships are made here.
+						and sunshine and many lasting friendships are made here.&#8217; Information provided by FoBCH.
+					</p>
+					<p class="block-text">
+						It is for this camp that we run a volunteer project for young people from Wales, to provide up to half of the volunteer team 
+						each summer. All volunteers give their time and money to be part of the project so that all fundraised money each year can be 
+						donated directly to the BCH to help cover costs of the summer camp.
 					</p>
 				</div>
 			</div>

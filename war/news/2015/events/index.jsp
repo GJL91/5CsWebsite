@@ -42,6 +42,29 @@
 				<h1>Events</h1>
 				<div class="bigBox first">
 					<div class="story">
+						<h5>Summer 2015!</h5>
+						<div class="story-image">
+							<img class="story-picture" src="https://scontent-lhr3-1.cdninstagram.com/hphotos-xtf1/t51.2885-15/s640x640/sh0.08/e35/11821117_459816217524924_504225159_n.jpg" alt="Summer Camp 2015" />
+							<a href="https://www.instagram.com/the_five_cs/" target="_blank"><span></span></a>
+							<p>Click here to see more photos</p>
+						</div>
+						<p class="block-text">
+							This summer marked the tenth year that The 5Cs have sent volunteers to the Belarusian Children's Hospice summer camp in Zabrodia.
+						</p>
+						<p class="block-text">
+							Our chair person, Bethan Powell, again spent the whole 10 weeks at the camp with other Trustees and Team Leaders, joining her for 
+							various times to help. Everyone from the Five C's gives their own time and money to volunteer at the camp, in the effort to make 
+							the children's time as special as possible.
+						</p>
+						<p class="block-text">
+							Everyone involved yet again had a wonderful time, marking another successful summer.
+						</p>
+						<p class="block-text">
+							For more information on the summer please see our &#8216;<a href="/news/2015/newsletters/1.Summer.pdf">Summer Newsletter</a>&#8217;!
+						</p>
+					</div>
+				
+					<div class="story">
 						<h5>St David's Day Run</h5>
 						<div class="story-image">
 							<img class="story-picture" src="https://farm1.staticflickr.com/462/20257810542_11d65dbe1f.jpg" alt="St Davids Day Run" />

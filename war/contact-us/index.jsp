@@ -47,17 +47,15 @@
 					<ul class="information">
 						<li class="box first">
 							<h2>Contact us online</h2>
-							<p>Submit an enquiry using our <a href="form/">online form</a> or send us an email to 
-								<a href="mailto:info@five-cs.org">info@five-cs.org</a>.</p>
-<!-- 							<a href="#">Submit an enquiry</a> -->
-<!-- 							<p class="email">Alternatively, send us an email:</p> -->
-<!-- 							<a href="mailto:info@five-cs.org">info@five-cs.org</a> -->
+							<p>Submit an enquiry using our <a href="form/">online form</a>, send us an email to 
+								<a href="mailto:info@five-cs.org">info@five-cs.org</a> or use any of our social media platforms provided at the top of the page.
+							</p>
 						</li>
 					
 						<li class="box">
 							<h2>Give us a ring</h2>
 							<p>Need a faster answer or just want to talk to us?</p>
-							<h3>Call us on +44(0)7834720757</h3>
+							<h3>Call Beth on +44(0)7834720757</h3>
 						</li>
 						
 						<li class="box last">
@@ -74,10 +72,10 @@
 				
 				<div class="bigBox">
 					<h2 class="inner">The Team</h2>
-					<p class="topText">We're very fortunate to have a great team of people that dedicate their time to helping the children at the Belarusian Childrens Hospice.</p>
+					<p class="topText">We're very fortunate to have a membership list of 54, which includes</p>
 					<div class="people center">
-						<p>Bethan Powell (Chairperson &amp; Volunteer Coordinator)</p>
-						<p>Zachary Thomas (Co-Chairperson &amp; Treasurer)</p>
+						<p>Bethan Powell (Chair of Trustees &amp; Volunteer Coordinator)</p>
+						<p>Zachary Thomas (Trustee &amp; Treasurer)</p>
 						<p>Lawrence Smart (Member &amp; Secretary)</p>
 						<br />
 						<p class="underline">Trustees</p>

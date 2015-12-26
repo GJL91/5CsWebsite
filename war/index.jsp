@@ -15,7 +15,7 @@
 		<title>The Five C's - Homepage</title>
 		<meta name="description" content="Chernobyl Children Cancer Care Cardiff (5Cs) is a non political, non denominational, Cardiff based charity that is officially twinned with the BCH.">
 		<meta name="robots" content="index,follow">
-		<meta name="keywords" content="Five Cs,5Cs,Chernobyl,Children,Cancer,Care,Cardiff,Charity,Belarus,Zabrodya,Minsk">
+		<meta name="keywords" content="Five Cs,5Cs,Chernobyl,Children,Cancer,Care,Cardiff,Charity,Belarus,Zabrodia,Minsk">
 		<script src="/scripts/jquery.js" type="text/javascript"></script>
         <script src="/scripts/common.js" type="text/javascript"></script>
 		<script src="/scripts/tickertape.js" type="text/javascript"></script>
@@ -42,18 +42,6 @@
 	</head>
 	<body>
 		<%@ include file="header.jsp" %>
-
-		<!--[if IE]>
-			<div class="modal open" id="modal">
-				<div class="cover"></div>
-				<div class="content">
-					<a id="close-modal" href="#" class="close">X</a>
-					You appear to be using an out of date browser. 	For the best experience when browsing the web, you are highly recommended to update your browser or switch to a new one.<br />
-					<br />
-					For more information, visit <a href="http://www.whatbrowser.org" target="_blank">www.whatbrowser.org</a>	
-				</div>
-			</div>
-		<![endif]-->
 
 		<div class="newsStory">
 			<span class="bold">Latest News: </span>

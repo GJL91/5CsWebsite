@@ -42,7 +42,7 @@
 				<h1>2015 Newsletters</h1>
 				<div class="bigBox first">
 					<%
-						String path = application.getRealPath("/news/2014/newsletters");
+						String path = application.getRealPath("/news/2015/newsletters");
 						File yearDirectory = new File(path);
 						String[] newsletters = yearDirectory.list();
 						for (int j = 0; j < newsletters.length; j++) {

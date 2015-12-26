@@ -91,7 +91,7 @@
 							<p>Click here to see more photos</p>
 						</div>
 						<p class="block-text">
-							This summer marked the ninth year that The 5Cs have sent volunteers to the Belarusian Childrens
+							This summer marked the ninth year that The 5Cs have sent volunteers to the Belarusian Children's
 							Hospice summer camp in Zabrodia.
 						</p>
 						<p class="block-text">

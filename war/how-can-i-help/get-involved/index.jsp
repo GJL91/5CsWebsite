@@ -43,13 +43,11 @@
 				<div class="bigBox first">
 					<img class="w-800 p-36" src="https://c1.staticflickr.com/9/8704/16977066426_8c9d82f053_c.jpg" alt="Group 2-4">
 					<p class="block-text">
-						We are always happy to hear from anyone with an enquiry or a fundraising idea! 
-					</p>
-					<p class="block-text">
+						We are always happy to hear from anyone with an enquiry or a fundraising idea!<br />
 						Details of how to contact us can be found on our <a href="/contact-us/">contact page</a>. 
 					</p>
 					<p class="block-text">
-						Or you can donate online safely by using our donate button at the top of this page.
+						If you wish to donate online, you can do so safely by using the donate button at the top of this page.
 					</p>
 					<p class="block-text">
 						If you would like to partake in a sponsored event for us, you can create a sponsor page 
@@ -60,9 +58,18 @@
 						in please see our <a href="/news/upcoming-events/">events page</a>.
 					</p>
 					<p class="block-text">
-						If you would like to remember us while you shop please register 
-						<a href="http://www.easyfundraising.org.uk/causes/5cs/?t=Easyfundraising-lo" target="_blank">here</a>.
-						Where most retailers will make a small donation to us as a thank you for your purchase!
+						If you would like to register to remember us while you shop please click 
+						<a href="http://www.easyfundraising.org.uk/causes/5cs/?t=Easyfundraising-lo" target="_blank">here.</a>
+						It doesn't cost you anything - just a few minutes of your time and 1000's of retailers will 
+						donate to us as you spend!
+					</p>
+					<p class="block-text">
+						If you would like to donate any items for us to sell on our charity eBay page, please 
+						<a href="/contact-us/">contact us</a> to find out how to do so.
+					</p>
+					<p class="block-text">
+						If you are interested in volunteering at the summer camp, please see our 
+						<a href="/how-can-i-help/summer-camp-project/">Summer Camp Project</a> page.
 					</p>
 					<p class="block-text">
 						From everyone here at the Five C's Team, we are so grateful for your on-going support.
